@@ -48,7 +48,7 @@ la partie "assert(0)" du code n'est jamais atteinte, du à la condition du if qu
 **Q 5.1**
 
 ```
-
+Lorsqu'une erreur est relevée, cela indique que nous sommes sur un chemin gagnant
 ```
 
 
@@ -112,6 +112,6 @@ il faut ajouter le flag suivant pour autoriser les calls de fonctions externes a
 **Q 8.1**
 
 ```
-
+KLEE n'ayant aucune paramètre entrant "aléatoires" on obtient forcément une meilleure performance
 ```
 
